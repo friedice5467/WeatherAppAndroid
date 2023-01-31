@@ -1,4 +1,4 @@
-#Android Weather App built in MAUI
+# Android Weather App built in MAUI
 
 First mobile app I created built in MAUI, just wanted to test out it's capabilities. Simple app that gets location data from the phone, calls a weather api, gets the data and displays the data.
 
